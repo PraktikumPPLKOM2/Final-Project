@@ -96,7 +96,7 @@ proc vTclWindow.top44 {base} {
         -font {-family {Arcon Rounded-} -size 9 -weight bold -slant roman -underline 0 -overstrike 0} \
         -foreground white -highlightbackground $vTcl(actual_gui_bg) \
         -highlightcolor black -text {Buku Penghubung} 
-    vTcl:DefineAlias "$site_3_0.lab45" "Label1" vTcl:WidgetProc "student_home" 1
+    vTcl:DefineAlias "$site_3_0.lab45" "app_name" vTcl:WidgetProc "student_home" 1
     place $site_3_0.but51 \
         -in $site_3_0 -x 0 -relx 0.9 -y 0 -width 60 -relwidth 0 -height 30 \
         -relheight 0 -anchor nw -bordermode ignore 
