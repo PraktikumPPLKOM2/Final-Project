@@ -177,7 +177,7 @@ class student_myassignments:
                 label="My Assignment")
 
         self.navbar = tk.Frame(top)
-        self.navbar.place(relx=0.0, rely=0.0, relheight=0.071, relwidth=1.0)
+        self.navbar.place(relx=0.0, rely=0.0, relheight=0.083, relwidth=1.0)
         self.navbar.configure(relief='flat')
         self.navbar.configure(borderwidth="2")
         self.navbar.configure(background="#05bff5")
