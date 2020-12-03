@@ -140,13 +140,13 @@ class parent_myprofile:
                 activeforeground="#05bff5",
                 background="white",
                 foreground="black",
-                label="Add Child")
+                label="My Children")
         self.sub_menu1.add_command(
                 activebackground="white",
                 activeforeground="#05bff5",
                 background="white",
                 foreground="black",
-                label="My Children")
+                label="My Child's Assignment")
         self.sub_menu1.add_command(
                 activebackground="white",
                 activeforeground="#05bff5",
